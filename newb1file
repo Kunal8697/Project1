@@ -1,0 +1,4 @@
+To sort an array in Java in descending order, you have to use the reverseOrder() method from the Collections class. 
+The reverseOrder() method does not parse the array. Instead, it will merely reverse the natural ordering of the array.
+To sort an array in Java in descending order, you have to use the reverseOrder() method from the Collections class.
+The reverseOrder() method does not parse the array. Instead, it will merely reverse the natural ordering of the array.
